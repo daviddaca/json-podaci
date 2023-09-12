@@ -1,0 +1,1586 @@
+[
+    {
+        "idjezik": "1",
+        "MBOPS": "80012",
+        "nOPS": "Ada",
+        "nOkrug": "Severnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS124"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70017",
+        "nOPS": "Aleksandrovac",
+        "nOkrug": "Rasinski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS216"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70025",
+        "nOPS": "Aleksinac",
+        "nOkrug": "Nišavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS225"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80039",
+        "nOPS": "Alibunar",
+        "nOkrug": "Južnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS122"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80047",
+        "nOPS": "Apatin",
+        "nOkrug": "Zapadnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS121"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70033",
+        "nOPS": "Aranđelovac",
+        "nOkrug": "Šumadijski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS218"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70041",
+        "nOPS": "Arilje",
+        "nOkrug": "Zlatiborski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS211"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70050",
+        "nOPS": "Babušnica",
+        "nOkrug": "Pirotski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS226"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70068",
+        "nOPS": "Bajina Bašta",
+        "nOkrug": "Zlatiborski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS211"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70076",
+        "nOPS": "Batočina",
+        "nOkrug": "Šumadijski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS218"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80055",
+        "nOPS": "Bač",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80063",
+        "nOPS": "Bačka Palanka",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80071",
+        "nOPS": "Bačka Topola",
+        "nOkrug": "Severnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS125"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80080",
+        "nOPS": "Bački Petrovac",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80098",
+        "nOPS": "Bela Crkva",
+        "nOkrug": "Južnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS122"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70084",
+        "nOPS": "Bela Palanka",
+        "nOkrug": "Pirotski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS226"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70092",
+        "nOPS": "Beograd - Barajevo",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70122",
+        "nOPS": "Beograd - Grocka",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70165",
+        "nOPS": "Beograd - Lazarevac",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70173",
+        "nOPS": "Beograd - Mladenovac",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70181",
+        "nOPS": "Beograd - Novi Beograd",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70190",
+        "nOPS": "Beograd - Obrenovac",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70203",
+        "nOPS": "Beograd - Palilula",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70211",
+        "nOPS": "Beograd - Rakovica",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70220",
+        "nOPS": "Beograd - Savski venac",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70238",
+        "nOPS": "Beograd - Sopot",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70246",
+        "nOPS": "Beograd - Stari grad",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71293",
+        "nOPS": "Beograd - Surčin",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70106",
+        "nOPS": "Beograd - Voždovac",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70114",
+        "nOPS": "Beograd - Vračar",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70157",
+        "nOPS": "Beograd - Zemun",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70149",
+        "nOPS": "Beograd - Zvezdara",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70254",
+        "nOPS": "Beograd - Čukarica",
+        "nOkrug": "Beogradski okrug",
+        "nRegion": "Beograd",
+        "IDNSTJ": "RS110"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80101",
+        "nOPS": "Beočin",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80110",
+        "nOPS": "Bečej",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70262",
+        "nOPS": "Blace",
+        "nOkrug": "Toplički okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS229"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70289",
+        "nOPS": "Bogatić",
+        "nOkrug": "Mačvanski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS213"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70297",
+        "nOPS": "Bojnik",
+        "nOkrug": "Jablanički okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS224"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70319",
+        "nOPS": "Boljevac",
+        "nOkrug": "Zaječarski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS223"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70327",
+        "nOPS": "Bor",
+        "nOkrug": "Borski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS221"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70335",
+        "nOPS": "Bosilegrad",
+        "nOkrug": "Pčinjski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS228"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70343",
+        "nOPS": "Brus",
+        "nOkrug": "Rasinski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS216"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70351",
+        "nOPS": "Bujanovac",
+        "nOkrug": "Pčinjski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS228"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71226",
+        "nOPS": "Crna Trava",
+        "nOkrug": "Jablanički okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS224"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70491",
+        "nOPS": "Despotovac",
+        "nOkrug": "Pomoravski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS215"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90069",
+        "nOPS": "Dečani",
+        "nOkrug": "Pećki okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS234"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70505",
+        "nOPS": "Dimitrovgrad",
+        "nOkrug": "Pirotski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS226"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70513",
+        "nOPS": "Doljevac",
+        "nOkrug": "Nišavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS225"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70467",
+        "nOPS": "Gadžin Han",
+        "nOkrug": "Nišavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS225"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90034",
+        "nOPS": "Glogovac",
+        "nOkrug": "Kosovski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS231"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90042",
+        "nOPS": "Gnjilane",
+        "nOkrug": "Kosovsko-pomoravski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS233"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70475",
+        "nOPS": "Golubac",
+        "nOkrug": "Braničevski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS222"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90336",
+        "nOPS": "Gora",
+        "nOkrug": "Prizrenski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS235"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70483",
+        "nOPS": "Gornji Milanovac",
+        "nOkrug": "Moravički okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS214"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80179",
+        "nOPS": "Inđija",
+        "nOkrug": "Sremski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS127"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80187",
+        "nOPS": "Irig",
+        "nOkrug": "Sremski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS127"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90107",
+        "nOPS": "Istok",
+        "nOkrug": "Pećki okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS234"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70564",
+        "nOPS": "Ivanjica",
+        "nOkrug": "Moravički okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS214"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71048",
+        "nOPS": "Jagodina",
+        "nOkrug": "Pomoravski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS215"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80195",
+        "nOPS": "Kanjiža",
+        "nOkrug": "Severnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS124"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90115",
+        "nOPS": "Kačanik",
+        "nOkrug": "Kosovski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS231"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80209",
+        "nOPS": "Kikinda",
+        "nOkrug": "Severnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS124"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70572",
+        "nOPS": "Kladovo",
+        "nOkrug": "Borski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS221"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90123",
+        "nOPS": "Klina",
+        "nOkrug": "Pećki okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS234"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70599",
+        "nOPS": "Knić",
+        "nOkrug": "Šumadijski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS218"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70602",
+        "nOPS": "Knjaževac",
+        "nOkrug": "Zaječarski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS223"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70637",
+        "nOPS": "Koceljeva",
+        "nOkrug": "Mačvanski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS213"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70629",
+        "nOPS": "Kosjerić",
+        "nOkrug": "Zlatiborski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS211"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90131",
+        "nOPS": "Kosovo Polje",
+        "nOkrug": "Kosovski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS231"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90140",
+        "nOPS": "Kosovska Kamenica",
+        "nOkrug": "Kosovsko-pomoravski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS233"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90298",
+        "nOPS": "Kosovska Mitrovica",
+        "nOkrug": "Kosovsko-mitrovački okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS232"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71340",
+        "nOPS": "Kostolac",
+        "nOkrug": "Braničevski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS222"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80217",
+        "nOPS": "Kovačica",
+        "nOkrug": "Južnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS122"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80225",
+        "nOPS": "Kovin",
+        "nOkrug": "Južnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS122"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70645",
+        "nOPS": "Kragujevac",
+        "nOkrug": "Šumadijski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS218"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70653",
+        "nOPS": "Kraljevo",
+        "nOkrug": "Raški okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS217"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70661",
+        "nOPS": "Krupanj",
+        "nOkrug": "Mačvanski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS213"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70670",
+        "nOPS": "Kruševac",
+        "nOkrug": "Rasinski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS216"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80233",
+        "nOPS": "Kula",
+        "nOkrug": "Zapadnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS121"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70688",
+        "nOPS": "Kuršumlija",
+        "nOkrug": "Toplički okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS229"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70696",
+        "nOPS": "Kučevo",
+        "nOkrug": "Braničevski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS222"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70700",
+        "nOPS": "Lajkovac",
+        "nOkrug": "Kolubarski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS212"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71277",
+        "nOPS": "Lapovo",
+        "nOkrug": "Šumadijski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS218"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70718",
+        "nOPS": "Lebane",
+        "nOkrug": "Jablanički okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS224"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90158",
+        "nOPS": "Leposavić",
+        "nOkrug": "Kosovsko-mitrovački okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS232"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70726",
+        "nOPS": "Leskovac",
+        "nOkrug": "Jablanički okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS224"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90166",
+        "nOPS": "Lipljan",
+        "nOkrug": "Kosovski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS231"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70769",
+        "nOPS": "Ljig",
+        "nOkrug": "Kolubarski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS212"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70777",
+        "nOPS": "Ljubovija",
+        "nOkrug": "Mačvanski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS213"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70734",
+        "nOPS": "Loznica",
+        "nOkrug": "Mačvanski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS213"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70742",
+        "nOPS": "Lučani",
+        "nOkrug": "Moravički okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS214"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70785",
+        "nOPS": "Majdanpek",
+        "nOkrug": "Borski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS221"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80241",
+        "nOPS": "Mali Iđoš",
+        "nOkrug": "Severnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS125"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70793",
+        "nOPS": "Mali Zvornik",
+        "nOkrug": "Mačvanski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS213"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70807",
+        "nOPS": "Malo Crniće",
+        "nOkrug": "Braničevski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS222"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70815",
+        "nOPS": "Medveđa",
+        "nOkrug": "Jablanički okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS224"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70823",
+        "nOPS": "Merošina",
+        "nOkrug": "Nišavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS225"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70831",
+        "nOPS": "Mionica",
+        "nOkrug": "Kolubarski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS212"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70840",
+        "nOPS": "Negotin",
+        "nOkrug": "Borski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS221"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71315",
+        "nOPS": "Niš - Crveni krst",
+        "nOkrug": "Nišavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS225"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71331",
+        "nOPS": "Niš - Medijana",
+        "nOkrug": "Nišavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS225"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71323",
+        "nOPS": "Niš - Palilula",
+        "nOkrug": "Nišavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS225"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71307",
+        "nOPS": "Niš - Pantelej",
+        "nOkrug": "Nišavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS225"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71285",
+        "nOPS": "Niška Banja",
+        "nOkrug": "Nišavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS225"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80250",
+        "nOPS": "Nova Crnja",
+        "nOkrug": "Srednjobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS126"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70866",
+        "nOPS": "Nova Varoš",
+        "nOkrug": "Zlatiborski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS211"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80268",
+        "nOPS": "Novi Bečej",
+        "nOkrug": "Srednjobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS126"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80276",
+        "nOPS": "Novi Kneževac",
+        "nOkrug": "Severnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS124"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70874",
+        "nOPS": "Novi Pazar",
+        "nOkrug": "Raški okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS217"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80284",
+        "nOPS": "Novi Sad",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90182",
+        "nOPS": "Novo Brdo",
+        "nOkrug": "Kosovsko-pomoravski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS233"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90204",
+        "nOPS": "Obilić",
+        "nOkrug": "Kosovski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS231"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80306",
+        "nOPS": "Odžaci",
+        "nOkrug": "Zapadnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS121"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80292",
+        "nOPS": "Opovo",
+        "nOkrug": "Južnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS122"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90212",
+        "nOPS": "Orahovac",
+        "nOkrug": "Prizrenski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS235"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70882",
+        "nOPS": "Osečina",
+        "nOkrug": "Kolubarski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS212"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80314",
+        "nOPS": "Pančevo",
+        "nOkrug": "Južnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS122"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70904",
+        "nOPS": "Paraćin",
+        "nOkrug": "Pomoravski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS215"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70912",
+        "nOPS": "Petrovac na Mlavi",
+        "nOkrug": "Braničevski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS222"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80519",
+        "nOPS": "Petrovaradin",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90239",
+        "nOPS": "Peć",
+        "nOkrug": "Pećki okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS234"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80322",
+        "nOPS": "Pećinci",
+        "nOkrug": "Sremski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS127"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70939",
+        "nOPS": "Pirot",
+        "nOkrug": "Pirotski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS226"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80349",
+        "nOPS": "Plandište",
+        "nOkrug": "Južnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS122"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90247",
+        "nOPS": "Podujevo",
+        "nOkrug": "Kosovski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS231"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70947",
+        "nOPS": "Požarevac",
+        "nOkrug": "Braničevski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS222"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70955",
+        "nOPS": "Požega",
+        "nOkrug": "Zlatiborski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS211"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70963",
+        "nOPS": "Preševo",
+        "nOkrug": "Pčinjski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS228"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70971",
+        "nOPS": "Priboj",
+        "nOkrug": "Zlatiborski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS211"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70980",
+        "nOPS": "Prijepolje",
+        "nOkrug": "Zlatiborski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS211"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90255",
+        "nOPS": "Prizren",
+        "nOkrug": "Prizrenski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS235"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90263",
+        "nOPS": "Priština",
+        "nOkrug": "Kosovski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS231"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70998",
+        "nOPS": "Prokuplje",
+        "nOkrug": "Toplički okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS229"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71013",
+        "nOPS": "Rača",
+        "nOkrug": "Šumadijski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS218"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71021",
+        "nOPS": "Raška",
+        "nOkrug": "Raški okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS217"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71005",
+        "nOPS": "Ražanj",
+        "nOkrug": "Nišavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS225"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71030",
+        "nOPS": "Rekovac",
+        "nOkrug": "Pomoravski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS215"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80357",
+        "nOPS": "Ruma",
+        "nOkrug": "Sremski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS127"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80365",
+        "nOPS": "Senta",
+        "nOkrug": "Severnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS124"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71366",
+        "nOPS": "Sevojno",
+        "nOkrug": "Zlatiborski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS211"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80373",
+        "nOPS": "Sečanj",
+        "nOkrug": "Srednjobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS126"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71072",
+        "nOPS": "Sjenica",
+        "nOkrug": "Zlatiborski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS211"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71099",
+        "nOPS": "Smederevo",
+        "nOkrug": "Podunavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS227"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71102",
+        "nOPS": "Smederevska Palanka",
+        "nOkrug": "Podunavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS227"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71129",
+        "nOPS": "Sokobanja",
+        "nOkrug": "Zaječarski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS223"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80381",
+        "nOPS": "Sombor",
+        "nOkrug": "Zapadnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS121"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90271",
+        "nOPS": "Srbica",
+        "nOkrug": "Kosovsko-mitrovački okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS232"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80390",
+        "nOPS": "Srbobran",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80403",
+        "nOPS": "Sremska Mitrovica",
+        "nOkrug": "Sremski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS127"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80411",
+        "nOPS": "Sremski Karlovci",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80420",
+        "nOPS": "Stara Pazova",
+        "nOkrug": "Sremski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS127"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80438",
+        "nOPS": "Subotica",
+        "nOkrug": "Severnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS125"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71137",
+        "nOPS": "Surdulica",
+        "nOkrug": "Pčinjski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS228"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90280",
+        "nOPS": "Suva Reka",
+        "nOkrug": "Prizrenski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS235"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71056",
+        "nOPS": "Svilajnac",
+        "nOkrug": "Pomoravski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS215"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71064",
+        "nOPS": "Svrljig",
+        "nOkrug": "Nišavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS225"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80446",
+        "nOPS": "Temerin",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80454",
+        "nOPS": "Titel",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71153",
+        "nOPS": "Topola",
+        "nOkrug": "Šumadijski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS218"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71161",
+        "nOPS": "Trgovište",
+        "nOkrug": "Pčinjski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS228"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71170",
+        "nOPS": "Trstenik",
+        "nOkrug": "Rasinski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS216"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71188",
+        "nOPS": "Tutin",
+        "nOkrug": "Raški okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS217"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71218",
+        "nOPS": "Ub",
+        "nOkrug": "Kolubarski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS212"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90301",
+        "nOPS": "Uroševac",
+        "nOkrug": "Kosovski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS231"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71145",
+        "nOPS": "Užice",
+        "nOkrug": "Zlatiborski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS211"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70360",
+        "nOPS": "Valjevo",
+        "nOkrug": "Kolubarski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS212"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70378",
+        "nOPS": "Varvarin",
+        "nOkrug": "Rasinski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS216"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70386",
+        "nOPS": "Velika Plana",
+        "nOkrug": "Podunavski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS227"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70394",
+        "nOPS": "Veliko Gradište",
+        "nOkrug": "Braničevski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS222"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90018",
+        "nOPS": "Vitina",
+        "nOkrug": "Kosovsko-pomoravski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS233"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70408",
+        "nOPS": "Vladimirci",
+        "nOkrug": "Mačvanski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS213"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70416",
+        "nOPS": "Vladičin Han",
+        "nOkrug": "Pčinjski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS228"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70424",
+        "nOPS": "Vlasotince",
+        "nOkrug": "Jablanički okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS224"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70432",
+        "nOPS": "Vranje",
+        "nOkrug": "Pčinjski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS228"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71358",
+        "nOPS": "Vranjska Banja",
+        "nOkrug": "Pčinjski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS228"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80462",
+        "nOPS": "Vrbas",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70459",
+        "nOPS": "Vrnjačka Banja",
+        "nOkrug": "Raški okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS217"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80128",
+        "nOPS": "Vršac",
+        "nOkrug": "Južnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS122"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90026",
+        "nOPS": "Vučitrn",
+        "nOkrug": "Kosovsko-mitrovački okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS232"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70556",
+        "nOPS": "Zaječar",
+        "nOkrug": "Zaječarski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS223"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80152",
+        "nOPS": "Zrenjanin",
+        "nOkrug": "Srednjobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS126"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90093",
+        "nOPS": "Zubin Potok",
+        "nOkrug": "Kosovsko-mitrovački okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS232"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90352",
+        "nOPS": "Zvečan",
+        "nOkrug": "Kosovsko-mitrovački okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS232"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71196",
+        "nOPS": "Ćićevac",
+        "nOkrug": "Rasinski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS216"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71200",
+        "nOPS": "Ćuprija",
+        "nOkrug": "Pomoravski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS215"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71234",
+        "nOPS": "Čajetina",
+        "nOkrug": "Zlatiborski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS211"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71242",
+        "nOPS": "Čačak",
+        "nOkrug": "Moravički okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS214"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80489",
+        "nOPS": "Čoka",
+        "nOkrug": "Severnobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS124"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90085",
+        "nOPS": "Đakovica",
+        "nOkrug": "Pećki okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS234"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "71269",
+        "nOPS": "Šabac",
+        "nOkrug": "Mačvanski okrug",
+        "nRegion": "Šumadija i Zapadna Srbija",
+        "IDNSTJ": "RS213"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80497",
+        "nOPS": "Šid",
+        "nOkrug": "Sremski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS127"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90310",
+        "nOPS": "Štimlje",
+        "nOkrug": "Kosovski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS231"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "90328",
+        "nOPS": "Štrpce",
+        "nOkrug": "Kosovski okrug",
+        "nRegion": "Kosovo",
+        "IDNSTJ": "RS231"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80136",
+        "nOPS": "Žabalj",
+        "nOkrug": "Južnobački okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS123"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70521",
+        "nOPS": "Žabari",
+        "nOkrug": "Braničevski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS222"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70530",
+        "nOPS": "Žagubica",
+        "nOkrug": "Braničevski okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS222"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "80144",
+        "nOPS": "Žitište",
+        "nOkrug": "Srednjobanatski okrug",
+        "nRegion": "Vojvodina",
+        "IDNSTJ": "RS126"
+    },
+    {
+        "idjezik": "1",
+        "MBOPS": "70548",
+        "nOPS": "Žitorađa",
+        "nOkrug": "Toplički okrug",
+        "nRegion": "Južna i Istočna Srbija",
+        "IDNSTJ": "RS229"
+    }
+]
